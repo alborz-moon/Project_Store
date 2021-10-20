@@ -1,0 +1,13 @@
+.custom-carousel p{
+    font-size: 12px;
+}
+.custom-carousel img{
+    max-width: 178px!important;
+    align-self: center!important;
+}
+.custom-carousel .badge{
+    text-align: center;
+}
+.custom-center{
+    text-align: center;
+}

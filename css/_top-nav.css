@@ -1,0 +1,78 @@
+.bg-top-nav{
+    background-color: #232f3e;
+}
+.custom-top-nav{
+    font-size: 15px;
+}
+.custom-top-nav a{
+    padding: 10px;
+}
+p{
+    margin: 0;
+}
+.custom-top-nav .border-left{
+    border-color: #403d3d !important;
+}
+.custom-btn-font-size{
+    font-size: 14px;
+}
+.shop-card{
+    background-color: transparent;
+}
+.shop-card span{
+    font-size: 16px;
+
+}
+.shop-card i{
+    vertical-align: -2px;
+}
+.basket img{
+    width: 64px;
+    height: 64px;
+}
+.basket a{
+    font-size: 14px;
+}
+.basket{
+    width: 280px!important;
+}
+.custom-navbar-nav{
+    font-size: 15px;
+}
+.custom-navbar-nav .nav-item{
+    position: unset;
+}
+.custom-navbar-nav .nav-item .dropdown-menu{
+    border-radius: 0;
+    top: 67px;
+    border: none;
+}
+.dropdown-img img{
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+.dropdown-img ul li a{
+    color: black!important;
+    font-size: 16px;
+
+}
+.dropdown-img ul li a i{
+    font-size: 10px;
+    vertical-align: -1px;
+    padding-left: 5px;
+}
+.dropdown-img ul li a{
+    transition: .5s ease;
+}
+.dropdown-img ul.nav li a:hover{
+    color: rgb(107, 107, 245)!important;
+    margin-right: 7px;
+}
+.custom-input-group-prepend{
+    font-size: 14px;
+}
+.custom-input{
+    font-size: 12px ;
+    color: #626a75;
+}

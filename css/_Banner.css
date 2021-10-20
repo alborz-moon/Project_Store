@@ -1,0 +1,12 @@
+.custom-banner-img img:hover{
+    transform: scale(1.05);
+}
+.custom-banner-img img{
+    transition: .5s ease;
+    overflow: hidden;
+}
+.custom-login-border{
+    border: none;
+    border-bottom: 1px #b8b6b6 solid;
+    border-radius: 3px;
+}

@@ -1,0 +1,30 @@
+
+$(document).ready(function(){
+    $(".owl-carousel").owlCarousel({        
+        rtl:true,
+        items:4,
+        margin:0,
+        nav:true,
+        dots:false,
+        autoplay:false,
+        autoplaytimesout:5000,
+        autoplayHoverPause:true,
+        responsiveClass:true,
+        responsive:{
+            0:{
+                items:1,
+                nav:true
+            },
+            600:{
+                items:3,
+                nav:false
+            },
+            1000:{
+                items:5,
+                nav:true,
+                loop:false
+            },
+        }
+    });
+  });
+  

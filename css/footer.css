@@ -1,0 +1,33 @@
+.news-letter-s1 h6{
+    font-size: 18px;
+}
+.news-letter-s1 p{
+    font-size: 16px;
+}
+
+.main-section-footer h5{
+    font-size: 15px;
+
+}
+.custom-footer-nav ul li a{
+    padding-top: 0;
+    font-size: 14px!important;
+    color: rgb(71, 71, 71)!important;
+}
+.custom-footer-nav ul li a:hover{
+    color: #808080!important;
+}
+.custom-footer-nav ul li:hover{
+    padding-right: 7px;
+}
+.custom-footer-nav ul li{
+    content: '';
+    transition: .3s ease;
+}
+.custom-footer-nav ul li a i{
+    font-size: 9px!important;
+    padding: 4px;
+}
+.custom-icon-footer ul li a i{
+    font-size: 14px!important;
+}

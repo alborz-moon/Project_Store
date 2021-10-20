@@ -1,0 +1,39 @@
+.custom-nav-tabs .nav-link{
+    border: none;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    font-size: 15px;
+    color: rgb(56, 56, 56);
+}
+.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
+    color: #c04848;
+    background-color: transparent;
+    border-color: transparent;
+}
+.nav-tabs .nav-link:hover, .nav-tabs .nav-link:focus {
+    border-color:transparent ;
+}
+.offers-product-img{
+    height: 240px;
+    width: 240px;
+    overflow: hidden;
+}
+.offers-product-img img{
+    width: 240px;
+}
+.offers-product-img:hover .frist-img, .offers-product-img:hover .second-img{
+    transform: translatey(-240px);
+}
+.offers-product-img .frist-img,.offers-product-img .second-img{
+    transition: .5s ease;
+}
+.custom-offers-box-shadow{
+    box-shadow: 0 0 1px 1px #efefef;
+    z-index: 1;
+}
+.offers-section-title{
+    right: 0;
+    border-bottom: 1px solid;
+    font-size: 18px;
+    padding: 3px;
+}

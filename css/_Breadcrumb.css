@@ -1,0 +1,6 @@
+.custom-breadcrumb{
+    background-color:transparent!important;
+}
+.breadcrumb-item + .breadcrumb-item::before {
+    content: ">";
+}
